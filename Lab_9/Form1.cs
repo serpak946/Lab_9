@@ -54,10 +54,5 @@ namespace Lab_9
                 chart1.Series[1].Points.AddXY(i, 600*Math.Cos(1600*i));
             }  
         }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
